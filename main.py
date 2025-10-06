@@ -1,5 +1,5 @@
 """
-MarkovkaSaveBOT - Telegram бот для сохранения и управления медиа-файлами
+AsintSave iOS v0.0.1 - Telegram бот для сохранения и управления медиа-файлами
 Создатель: KulacodmYT.t.me
 """
 
